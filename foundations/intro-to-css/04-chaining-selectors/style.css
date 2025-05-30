@@ -7,3 +7,13 @@
     width: 200px;
     height: 400px;
 }
+
+/* styles.css */
+
+#parent {
+  color: red;
+}
+
+.child {
+  color: blue;
+}
